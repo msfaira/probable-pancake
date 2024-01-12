@@ -7,6 +7,9 @@ import 'package:go_router/go_router.dart';
 
 import 'page/home_page.dart';
 
+
+
+
 //Ici on créé notre routeur
 // La route "/" peut aller vers la route "/cart"
 // et au retour, elle revient sur "/"
